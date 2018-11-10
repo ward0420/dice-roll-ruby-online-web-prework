@@ -1,3 +1,3 @@
 def roll 
-  rand (6)
+  rand(6) + 1
 end
